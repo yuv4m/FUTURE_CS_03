@@ -1,0 +1,7 @@
+venv/
+uploads/
+decrypted/
+keys/
+access.log
+*.meta.json
+.env
